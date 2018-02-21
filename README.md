@@ -1,7 +1,7 @@
 # ChaptersProject
 It is a frontend project on providing people with good movie suggestions.
 ---
-##Contributors
+## Contributors
 -Saurabh Singh <saurabhs1206@gmail.com>
 ---
 ## License & Copyright
