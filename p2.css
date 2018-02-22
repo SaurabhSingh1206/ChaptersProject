@@ -1,0 +1,106 @@
+
+    #c1
+  {   
+    font-family: Cantarell;
+    text-align: center;
+    font-size:312.5%;
+    color:#b9b992;
+    letter-spacing: 0.2em;
+  }
+  #c2
+  {
+    position: relative;
+    top:20%;
+    left:31%;
+    width:35%;
+    height: 40%;
+    background-color: #1a1a1a;
+  }
+    #c3
+  {
+    position: absolute;
+    top:25%;
+    left:28%;
+    width:44%;
+    height:13%;
+  }
+  input[type="text"]
+  { 
+    font-family: Nunito;
+    width:100%;
+      height: 100%;
+    background-color: rgb(219,219,219);
+    padding-left: 8%;
+    border-width:0px;
+    border-radius:50px 50px;
+    font-size: 120%;
+  }
+  #c4
+  {
+    position: absolute;
+    top:45%;
+    left:28%;
+    width:44%;
+    height:13%;
+  }
+  input[type="password"]
+  {   
+    font-family: Nunito;
+    width:100%;
+      height: 100%;
+    background-color: rgb(219,219,219);
+    border-radius:50px 50px;
+    border-width:0px;
+    padding-left:8%;
+    font-size: 120%;
+  }
+  #c5
+  {
+    position: absolute;
+    top:65%;
+    left:28%;
+    width:44%;
+    height:15%;
+  }
+  input[type="button"]
+  { 
+    width:100%;
+    height:100%;
+    font-family: Nunito;
+    font-size:160%;
+    background-color: #b9b992;
+    border-width: 0px;
+    word-spacing: 0.5em;
+    padding-top:1%;
+    padding-bottom:1%;
+    border-radius:3px;
+  }
+  #c6
+  {
+    position: absolute;
+    top:85%;
+    left:28%;
+    width:44%;
+    font-size:100%;
+    font-family:Ubuntu;
+    color:#999999;
+  }
+  #c6 a
+  {
+    font-size: 100%;
+    font-family:Ubuntu;
+    text-decoration: none;
+    color:#f2f2f2;
+  }
+  .glyphicon.glyphicon-arrow-right
+  {
+    font-size:80%;
+  }
+
+  html,body
+  {
+    height: 100%;
+    width: 100%;
+    margin:0%;
+    background-color: #0d0d0d;
+  }
